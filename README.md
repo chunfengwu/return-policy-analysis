@@ -1,2 +1,4 @@
 # Return-Policy-Analysis
-Built Machine learning models (regression, Logistic, Negative Binomial and Poisson) in R to assess the effect of return policy change on sales and consumer behavior
+ Why Return Policy is Important?
+In 2015 , retailers surveyed estimate that total annual returns in US reach $261 billion, or 8% of total retail sales, with $9.1 billion of retailers’ annual returns expected to be fraudulent, or 3.5% of the industry’s total returns.
+ 
